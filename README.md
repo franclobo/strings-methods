@@ -86,7 +86,7 @@ To run the project, execute the following command in your terminal:
 To run tests, run the following command:
 
 ```sh
-  npm run test
+  npm test
 ```
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
